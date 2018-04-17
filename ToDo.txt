@@ -1,0 +1,7 @@
+conversion functions needed;
+
+-Dollars to cents
+-gallons to liters
+-Feet to inches
+-Degrees to Radians
+
